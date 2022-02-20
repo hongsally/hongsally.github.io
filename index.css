@@ -1,0 +1,71 @@
+h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+  .intro {
+    display: flex;
+    margin-top: 100px;
+    margin-right: 20%;
+    margin-left: 20%;
+  }
+
+  .mypicture{
+      margin-right: 10%;
+      border-style: solid;
+      border-width: 2px;
+
+  }
+
+  #skills{
+      margin-top: 25px;
+      margin-left: 15%;
+      font-size: 26px;
+  }
+
+  ul{
+    margin-left: 15%;
+  }
+
+  h3{
+      text-align: center;
+  }
+  
+  nav{
+      text-align: center;
+      margin-top: 25px;
+      font-size: 20px;
+      word-spacing: 10px;
+  }
+
+  h2#work{
+      text-align: center;
+  }
+
+  p#work{
+    text-align: center;
+  }
+
+  h2{
+    margin-left: 10%;
+  }
+
+  img{
+    margin-left: 10%;
+  }
+
+  .webAndRes{
+    display:flex;
+    margin-left: 8%;
+  }
+
+  .resume{
+    margin-left: 10%;
+
+  }
+ 
